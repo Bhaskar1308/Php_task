@@ -1,0 +1,18 @@
+/* Header */
+.app-header{
+    background:linear-gradient(90deg,#2d3fe4,#673ab7);
+    padding:20px 0
+}
+.app-header h4{margin:0;font-weight:600}
+.app-header small{font-size:12px;color:#ddd}
+
+/* Table */
+table.dataTable tbody tr td{vertical-align:middle}
+table.dataTable thead{background:#3b82f6;color:#fff}
+.status-pill{background:#22c55e;color:#fff;padding:2px 8px;border-radius:12px;font-size:12px}
+
+/* Buttons */
+.btn-success{background:#22c55e;border:none}
+.btn-primary{background:#3b82f6;border:none}
+.btn-edit{color:#16a34a}
+.btn-delete{color:#dc2626}
